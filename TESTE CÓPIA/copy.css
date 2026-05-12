@@ -1,0 +1,155 @@
+body{background-color: lightgray;}
+.title{
+    text-align: center;
+    color: darkgreen;
+    position: relative;
+    top: -9px;
+    border-style: groove;
+    font-size: 25px;
+    border: solid 2px blue;
+    background-color: bisque;
+    padding: 50px;
+}
+.c{
+    position: absolute;
+    height: 100px;
+    width: auto;
+    top: 20px;
+    left: 20px;
+}
+.java{
+    position: absolute;
+    height: 100px;
+    width: auto;
+    top: 20px;
+    right: 20px;
+}
+.home{
+    display: inline;
+    color:darkred;
+    background-color: lightskyblue;
+    position: relative;
+    top: -16px;
+    padding: 10px;
+    padding-left: 500px;
+}
+.livros{
+    display: inline;
+    color:darkred;
+    background-color: lightskyblue;
+    position: relative;
+    top: -16px;
+    padding: 10px;
+    padding-left: 200px;
+    margin-left: -10px;
+}
+.videos{
+    display: inline;
+    color:darkred;
+    background-color: lightskyblue;
+    position: relative;
+    top: -16px;
+    padding: 10px;
+    padding-left: 200px;
+    margin-left: -10px;
+}
+.contatos{
+    display: inline;
+    color:darkred;
+    background-color: lightskyblue;
+    position: relative;
+    top: -16px;
+    padding: 10px;
+    padding-left: 200px;
+    margin-left: -10px;
+    padding-right: 523px;
+}
+.subtitle{
+    text-align: center;
+    border-style: hidden;
+    padding: 6px;
+}
+.text{
+    color:indigo;
+    font-size: 20pt;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: sans-serif;
+}
+.book1{
+    display: inline;
+    margin-left: 300px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.book2{
+    display: inline;
+    height: 518px;
+    width: auto;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+}
+.book3{
+    display: inline;
+    height: 518px;
+    width: auto;
+    padding-bottom: 50px;
+   
+}
+.fei-video{
+    margin-left: 600px;
+    padding-bottom: 50px;
+}
+.fei-mapa{
+    position: absolute;
+    margin-right: 600px;
+    margin-left: 70px;
+    padding-bottom: 50px;
+}
+.final{
+    text-align: center;
+    position: relative;
+    bottom: 0px;
+    border-style: hidden;
+    font-size: 15pt;
+    background-color: bisque;
+    padding: 50px;
+}
+.contfinal{
+    text-align: center;
+    border-style: hidden;
+    padding-top: 6px;
+    padding-bottom: 360px;
+}
+table,tr,th{
+    margin-left: auto;
+    margin-right: auto;
+    color: red;
+    border-color: red;
+    border-style: dashed;
+}
+td{
+    color: black;
+    padding: 8px;
+}
+
+table{
+    position: absolute;
+    bottom: -970px;
+    margin-left: 747px;
+}
+.html{  
+    position: absolute;
+    height: 100px;
+    width: auto;
+    bottom: -1320px;
+    left: 20px;
+}
+.css{  
+    position: absolute;
+    height: 100px;
+    width: auto;
+    bottom: -1320px;
+    right: 20px;
+}
