@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+#tabela0{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+
+#tabela{
+    color: #fff;
+    font-size: 50px;
+}
+
+#projetos{
+    font-size: 50px;
+    color: #fff;
+    display: flex;
+        justify-content: center;
+}
